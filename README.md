@@ -1,5 +1,7 @@
 Zomato Dataset Analysis
-📌 Project Overview
+
+
+📌 Project Overview:-
 This project is developed as part of the InternSpark Data Science Internship. It focuses on analyzing the Zomato restaurant dataset to identify useful patterns related to restaurant ratings, cuisines, locations, pricing, and other restaurant characteristics.
 
 The project follows this workflow:
